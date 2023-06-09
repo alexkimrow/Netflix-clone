@@ -1,7 +1,9 @@
 ### Full-stack Netflix website using React JS, Stripe, API, Redux, Firestore, Google Auth.
 
+
 ### About the project
 A Netflix Clone online platform with Movies by categories with user able to sign up for an account and select a desired plan for checkout.
+
 
 ### Built with 
 - React JS 
@@ -10,6 +12,7 @@ A Netflix Clone online platform with Movies by categories with user able to sign
 - Firestore
 - Google Auth
 - Stripe
+
 
 ### Screenshots of the project
 ![image](https://github.com/alexrodeveloper/Netflix-clone/assets/121688621/c5e68dce-1908-4fd0-9793-c5b74031283c)
