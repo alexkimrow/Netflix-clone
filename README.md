@@ -6,7 +6,8 @@ A Netflix Clone online platform with Movies by categories with user able to sign
 
 
 ### Built with 
-- React JS 
+- React JS
+- CSS 
 - Redux 
 - REST API
 - Firestore
